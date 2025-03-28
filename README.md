@@ -1,7 +1,7 @@
-## Olá! Me chamo Maurício 🚀
+# Olá! Me chamo Maurício 🚀
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gois.mauricio12@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maur%C3%ADcio-martins-a61648240/)
 
 ![Maurício GitHub stats](https://github-readme-stats.vercel.app/api?username=maugois&show_icons=true&theme=dracula&locale=pt-br)
 
